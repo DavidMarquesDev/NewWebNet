@@ -32,4 +32,9 @@ E:\Desenvolvimento\C# .Net\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Sales
 E:\Desenvolvimento\C# .Net\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 E:\Desenvolvimento\C# .Net\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 E:\Desenvolvimento\C# .Net\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+E:\Desenvolvimento\C# .Net\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
+E:\Desenvolvimento\C# .Net\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
+E:\Desenvolvimento\C# .Net\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
+E:\Desenvolvimento\C# .Net\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
+E:\Desenvolvimento\C# .Net\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
 E:\Desenvolvimento\C# .Net\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
