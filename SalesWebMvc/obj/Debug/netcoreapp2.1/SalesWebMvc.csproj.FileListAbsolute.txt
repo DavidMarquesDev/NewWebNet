@@ -7,7 +7,6 @@ E:\Desenvolvimento\C# .Net\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\Sales
 E:\Desenvolvimento\C# .Net\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.pdb
 E:\Desenvolvimento\C# .Net\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.dll
 E:\Desenvolvimento\C# .Net\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.pdb
-E:\Desenvolvimento\C# .Net\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
 E:\Desenvolvimento\C# .Net\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfoInputs.cache
 E:\Desenvolvimento\C# .Net\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfo.cs
 E:\Desenvolvimento\C# .Net\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
